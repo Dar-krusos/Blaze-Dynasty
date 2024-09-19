@@ -1,0 +1,27 @@
+{
+  "name": "blaze-dynasty",
+  "version": "1.0.0",
+  "description": "Among Us stats bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "housekeeping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dar-krusos/Blaze-Dynasty.git"
+  },
+  "author": "Dar-Krusos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dar-krusos/Blaze-Dynasty/issues"
+  },
+  "homepage": "https://github.com/Dar-krusos/Blaze-Dynasty#readme",
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.10.0"
+  }
+}
